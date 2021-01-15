@@ -75,11 +75,11 @@ function generateReadMe (answers) {
         license = "[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)";
     }
     return `
-##Title
-${answers.title}
+## Title
+${answers.title} \n
 ${license}
 
-##Table of Contents
+## Table of Contents
 [Description](#Description)
 [Installation](#Installation)
 [Usage](#Usage)
@@ -88,30 +88,28 @@ ${license}
 [Tests](#Tests)
 [Questions](#questions)
 
-##Description
+## Description
 ${answers.description}
 
-##Installation
+## Installation
 ${answers.installation}
 
-##Usage
+## Usage
 ${answers.usage}
 
-##License
+## License
 Licensed under ${answers.license}
 
-##Contributing
+## Contributing
 ${answers.contributing}
 
-##Tests
+## Tests
 ${answers.tests}
 
-##Questions
-${answers.questions}
-
-Github: ${answers.github}
-Email:  ${answers.email}
-    
+## Questions
+Please direct questions to the following email: ${answers.email}
+\n
+Github username: ${answers.github}
     `;
 }
 
@@ -122,7 +120,7 @@ promptUser()
         return writeFileAsync("README.md", readME);
     })
     .then(function() {
-        console.log("Successfully generated README.md file");
+        console.log("Successfully generated README.md");
     })
       .catch(function(err) {
         console.log(err);

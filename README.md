@@ -1,10 +1,10 @@
 
+## Title
+My Project 
 
-##Title
-Project
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-##Table of Contents
+## Table of Contents
 [Description](#Description)
 [Installation](#Installation)
 [Usage](#Usage)
@@ -13,28 +13,27 @@ Project
 [Tests](#Tests)
 [Questions](#questions)
 
-##Description
-homework
+## Description
+Homework for Week 9
 
-##Installation
-instal
+## Installation
+Install instructions here
 
-##Usage
-usage
+## Usage
+Usage information here
 
-##License
+## License
 Licensed under MIT
 
-##Contributing
+## Contributing
 To contribute to code base, please refer to (https://github.com/microsoft/vscode/wiki/How-to-Contribute)
 
-##Tests
-test
+## Tests
+Test instructions here
 
-##Questions
-undefined
+## Questions
+Please direct questions to the following email: myemail@hey.com
 
-Github: karryns
-Email:  karrynsaw@gmail.com
-    
+
+Github username: karryns
     
