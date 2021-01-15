@@ -26,14 +26,14 @@ Usage information here
 Licensed under MIT
 
 ## Contributing
-To contribute to code base, please refer to (https://github.com/microsoft/vscode/wiki/How-to-Contribute)
+To contribute please refer to (https://github.com/microsoft/vscode/wiki/How-to-Contribute)
 
 ## Tests
 Test instructions here
 
 ## Questions
-Please direct questions to the following email: myemail@hey.com
+Please direct questions to the following email: karryn@gmail.com
 
 
-Github username: karryns
+Github: https://github.com/karryns
     
