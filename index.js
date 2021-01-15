@@ -39,7 +39,7 @@ function promptUser() {
             type: "input",
             message: "Contribution details: ",
             name: "contributing",
-            default: "To contribute please refer to (https://github.com/microsoft/vscode/wiki/How-to-Contribute)"
+            default: "To contribute please refer to https://github.com/microsoft/vscode/wiki/How-to-Contribute"
         },
         {
             type: "input",
