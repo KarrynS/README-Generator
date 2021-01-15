@@ -39,7 +39,7 @@ function promptUser() {
             type: "input",
             message: "Contribution details: ",
             name: "contributing",
-            default: "To contribute to code base, please refer to (https://github.com/microsoft/vscode/wiki/How-to-Contribute)"
+            default: "To contribute please refer to (https://github.com/microsoft/vscode/wiki/How-to-Contribute)"
         },
         {
             type: "input",
@@ -109,7 +109,7 @@ ${answers.tests}
 ## Questions
 Please direct questions to the following email: ${answers.email}
 \n
-Github username: ${answers.github}
+Github: https://github.com/${answers.github}
     `;
 }
 
