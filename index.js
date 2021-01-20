@@ -29,7 +29,7 @@ function promptUser() {
             name: "usage",
         },
         {
-            type: "input",
+            type: "list",
             message: "Select license for your application: ",
             name: "license",
             choices: ["MIT", "ISC",  "GNU GPLv3", "Apache-2.0", "BSD-3-Clause"],
@@ -117,7 +117,7 @@ promptUser()
     .then(function(answers) {
         const readME = generateReadMe(answers);
 
-        return writeFileAsync("README.md", readME);
+        return writeFileAsync("./NewREADME/README.md", readME);
     })
     .then(function() {
         console.log("Successfully generated README.md");
