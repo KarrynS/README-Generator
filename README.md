@@ -1,8 +1,4 @@
-
-## Title
-My Project 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## README Generator
 
 ## Table of Contents
 [Description](#Description)
@@ -14,25 +10,27 @@ My Project
 [Questions](#questions)
 
 ## Description
-Homework for Week 9
+A command-line application that allows users to easily generate a professional README file for their project. 
 
 ## Installation
-Install instructions here
+Clone the package and inside the package directory install (npm i) all dependencies via terminal into your local node_ modules folder. 
 
 ## Usage
-Usage information here
+After installation, enter 'node index.js' into the command line to run the application.
+
+<img src="Assets/Sreenshot.png">
+<br>
+<a src="Assets/app-demo.mov"></a>
 
 ## License
-Licensed under MIT
 
 ## Contributing
-To contribute please refer to (https://github.com/microsoft/vscode/wiki/How-to-Contribute)
+To contribute please refer to https://github.com/microsoft/vscode/wiki/How-to-Contribute
 
 ## Tests
-Test instructions here
 
 ## Questions
-Please direct questions to the following email: karryn@gmail.com
+Please direct questions to the following email: karrynsaw@gmail.com
 
 
 Github: https://github.com/karryns
