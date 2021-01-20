@@ -117,7 +117,7 @@ promptUser()
     .then(function(answers) {
         const readME = generateReadMe(answers);
 
-        return writeFileAsync("/created/README.md", readME);
+        return writeFileAsync("./NewREADME/README.md", readME);
     })
     .then(function() {
         console.log("Successfully generated README.md");
