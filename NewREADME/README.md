@@ -1,6 +1,6 @@
 
 ## Title
-table of coentents 
+Sample README 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -14,26 +14,26 @@ table of coentents
 [Questions](#questions)
 
 ## Description
-eetqe
+Sample description here
 
 ## Installation
-qetqetqe
+Installation instructions here
 
 ## Usage
-qetqetqe
+Usage information here
 
 ## License
 Licensed under MIT
 
 ## Contributing
-qetqetq
+To contribute please refer to https://github.com/microsoft/vscode/wiki/How-to-Contribute
 
 ## Tests
-qetqetq
+Test instructions here
 
 ## Questions
-Please direct questions to the following email: qetqet
+Please direct questions to the following email: karrynsaw@gmail.com
 
 
-Github: https://github.com/qetqet
+Github: https://github.com/KarrynS
     
