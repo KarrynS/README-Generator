@@ -21,10 +21,9 @@ After installation, enter 'node index.js' into the command line to run the appli
 <img src="Assets/Sreenshot.png"/>
 
 <figure class="video_container">
-    <video controls="true" allowfullscreen="true">
-    <source src="https://drive.google.com/file/d/1Yn6FGISPUsY4ghxPcTrzX2K2YgrYoVa9/view" >
-    </video>
+  <iframe src="https://drive.google.com/file/d/1Yn6FGISPUsY4ghxPcTrzX2K2YgrYoVa9/view" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
 
 
 ## License
