@@ -20,7 +20,7 @@ After installation, enter 'node index.js' into the command line to run the appli
 
 <img src="Assets/Sreenshot.png"/>
 <br>
-<a src="https://drive.google.com/file/d/1Yn6FGISPUsY4ghxPcTrzX2K2YgrYoVa9/view"> Link to Demo Video</a>
+<a href="https://drive.google.com/file/d/1Yn6FGISPUsY4ghxPcTrzX2K2YgrYoVa9/view"> Link to Demo Video</a>
 
 ## License
 
