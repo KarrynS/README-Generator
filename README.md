@@ -19,7 +19,9 @@ Clone the package and inside the package directory install (npm i) all dependenc
 After installation, enter 'node index.js' into the command line to run the application.
 
 <img src="Assets/Sreenshot.png">
-<a src="Assets/ReadmeGeneratorDemo.mp4"></a>
+<video width="320" height="240" controls>
+<source src="Assets/ReadmeGeneratorDemo.mp4" type="video/mp4">
+</video>
 
 ## License
 
