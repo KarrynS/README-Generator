@@ -19,12 +19,8 @@ Clone the package and inside the package directory install (npm i) all dependenc
 After installation, enter 'node index.js' into the command line to run the application.
 
 <img src="Assets/Sreenshot.png"/>
-
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1Yn6FGISPUsY4ghxPcTrzX2K2YgrYoVa9/view" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-
+<br>
+<a src="https://drive.google.com/file/d/1Yn6FGISPUsY4ghxPcTrzX2K2YgrYoVa9/view"> Link to Demo Video</a>
 
 ## License
 
