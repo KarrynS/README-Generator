@@ -1,13 +1,13 @@
 ## README Generator
 
 ## Table of Contents
-[Description](#Description)
-[Installation](#Installation)
-[Usage](#Usage)
-[License](#License)
-[Contributing](#Contributing)
-[Tests](#Tests)
-[Questions](#questions)
+[Description](#Description) <br>
+[Installation](#Installation) <br>
+[Usage](#Usage) <br>
+[License](#License) <br>
+[Contributing](#Contributing) <br>
+[Tests](#Tests) <br> 
+[Questions](#questions) <br>
 
 ## Description
 A command-line application that allows users to easily generate a professional README file for their project. 
@@ -19,9 +19,11 @@ Clone the package and inside the package directory install (npm i) all dependenc
 After installation, enter 'node index.js' into the command line to run the application.
 
 <img src="Assets/Sreenshot.png">
-<video width="320" height="240" controls>
-<source src="Assets/ReadmeGeneratorDemo.mp4" type="video/mp4">
-</video>
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" >
+    <source src="Assets/ReadmeGeneratorDemo.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ## License
 
